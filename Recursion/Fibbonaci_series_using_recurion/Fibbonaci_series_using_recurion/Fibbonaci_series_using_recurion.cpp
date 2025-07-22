@@ -11,6 +11,7 @@ int main()
 
     std::cout << "Enter the Number :";
     std::cin >> num;
+    //vbxkvbfb
 
     for (i = 0; i <= num; i++)
     {
